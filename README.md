@@ -1,30 +1,45 @@
-# Weather app UI
+# 🌦️ Weather App UI
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+An advanced, responsive weather app UI that showcases the weather over the last 7 days. Built for a hackathon submission with performance, polish, and user experience in mind.
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mohd-owais-projects-46c2cefe/v0-weather-app-ui)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/d6BWT1C9G8s)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🌍 Deployment
 
-## Deployment
+Live here:  
+👉 **[https://vercel.com/mohd-owais-projects-46c2cefe/v0-weather-app-ui](https://vercel.com/mohd-owais-projects-46c2cefe/v0-weather-app-ui)**
 
-Your project is live at:
+---
 
-**[https://vercel.com/mohd-owais-projects-46c2cefe/v0-weather-app-ui](https://vercel.com/mohd-owais-projects-46c2cefe/v0-weather-app-ui)**
+## 🚀 Features
 
-## Build your app
+- ✅ **Today's Weather** with animated card
+- 🌈 **7-Day Carousel** to view historical weather
+- 📊 **Tabbed Info**: Temperature, Humidity, Precipitation
+- 🧠 **Mock Data** simulating real API responses
+- 🎨 **Responsive & Themed UI** with TailwindCSS
+- 🌘 Optional **Dark Mode**
+- 🌀 **Smooth Animations** via Framer Motion
+- 📱 Mobile-First & Desktop-Friendly
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/d6BWT1C9G8s](https://v0.dev/chat/projects/d6BWT1C9G8s)**
+## 🛠️ Tech Stack
 
-## How It Works
+- React + TypeScript
+- Tailwind CSS
+- Lucide React Icons
+- Framer Motion
+- Vercel (Deployment)
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 🧪 Local Setup
+
+```bash
+git clone https://github.com/OFFTrust7/v0-weather-app-ui.git
+cd v0-weather-app-ui
+npm install
+npm run dev
